@@ -32,10 +32,8 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
+  publication_format: 0
   view: citation
   columns: '1'
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
