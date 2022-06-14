@@ -32,7 +32,7 @@ publication_short: In *CVPR 2022*
 abstract: We present A-ViT, a method to enable adaptive token computation for vision transformers. We augment the vision transformer block with adaptive halting module that computes a halting probability per token. The module reuses the parameters of existing blocks and it borrows a single neuron from the last dense layer in each block to compute the halting probability, imposing no extra parameters or computations. A token is discarded once reaching the halting condition. Via adaptively halting tokens, we perform dense compute only on the active tokens deemed informative for the task. As a result, successive blocks in vision transformers gradually receive less tokens, leading to faster inference. Learnt token halting vary across images, yet align surprisingly well with image semantics (see examples above and more in paper). This results in immediate, out-of-the-box inference speedup on off-the-shelf computational platform.
 
 # Summary. An optional shortened abstract.
-summary: Transformer with adaptive inference where simpler images are classified faster. Tokens are automatically stopped at various depth once become irrelevant. Learned via differentiable loss inspired by ACT (Graves).
+summary: Transformer with adaptive inference where simpler images are classified faster. Tokens are automatically stopped at various depth once become irrelevant. Learned via differentiable loss inspired by ACT.
 
 tags: 
   - cvpr2022
