@@ -37,9 +37,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  - icon: envelopes-bulk
+    icon_pack: fas
+    link: 'mailto:pmolchanov_at_nvidia.com'
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:pamolchanov_at_gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/PavloMolchanov
@@ -66,4 +69,4 @@ highlight_name: true
 
 Pavlo Molchanov obtained PhD from Tampere University of Technology, Finland in the area of signal processing in 2014. His dissertation was focused on designing automatic target recognition systems for radars. Since 2015 he is with Learning and Perception Research team at NVIDIA, currently holding a senior research scientist position. His research is focused on methods for neural network acceleration, and designing novel human-computer interaction systems and human understanding. On the network acceleration he is interested in neural network pruning methods and conditional inference. For human understanding he is working on landmark estimation, gesture recognition, hand pose estimation. He received EuRAD best paper award in 2011 and EuRAD young engineer award in 2013.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+[comment]: <> ({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)
