@@ -14,7 +14,7 @@ authors:
 - Pavlo Molchanov
 tags: [cvpr2022]
 categories: [cvpr2022]
-date: '2022-06-09'
+date: '2022-03-09'
 lastmod: 2022-06-06T16:13:57-07:00
 featured: true
 draft: false
@@ -52,5 +52,8 @@ publication_types:
 abstract: ''
 summary: Images can be recovered from averaged gradients in Transformers, they are more vulnerable than CNNs.
 
-publication: '*arXiv preprint arXiv:2203.11894*'
+# Publication name and optional abbreviated publication name.
+publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition*
+publication_short: In *CVPR 2022*
+
 ---

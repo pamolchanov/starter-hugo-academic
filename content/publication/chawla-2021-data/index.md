@@ -16,6 +16,15 @@ lastmod: 2022-06-06T16:13:53-07:00
 featured: false
 draft: false
 
+url_pdf: 'https://openaccess.thecvf.com/content/WACV2021/papers/Chawla_Data-Free_Knowledge_Distillation_for_Object_Detection_WACV_2021_paper.pdf'
+url_code: 'https://github.com/NVlabs/DIODE'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

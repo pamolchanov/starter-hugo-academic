@@ -13,7 +13,7 @@ authors:
 - Arash Vahdat
 tags: []
 categories: []
-date: -01-01
+date: 2021-07-12
 lastmod: 2022-06-06T16:13:56-07:00
 featured: false
 draft: false

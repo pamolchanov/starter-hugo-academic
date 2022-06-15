@@ -1,8 +1,8 @@
 ---
-title: Adaptive model
+title: DNN compression
 summary: Methods to invert pretrained neural network from weights and optionally gradients. Useful for data-free model optimization/distillation. Case study involves attack in federated learning
 tags:
-  - adaptive_model
+  - model_inversion
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
