@@ -18,7 +18,7 @@ authors:
 - ' others'
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2021-04-01'
 lastmod: 2022-06-06T16:13:53-07:00
 featured: false
 draft: false
@@ -30,6 +30,15 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+url_pdf: 'https://dex-ycb.github.io/assets/chao_cvpr2021.pdf'
+url_code: 'https://github.com/NVlabs/dex-ycb-toolkit'
+url_dataset: ''
+url_poster: ''
+url_project: 'https://dex-ycb.github.io'
+url_slides: ''
+url_source: ''
+url_video: 'https://youtu.be/Q4wyBaZeBw0'
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
