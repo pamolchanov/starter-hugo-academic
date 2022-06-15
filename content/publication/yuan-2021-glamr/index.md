@@ -12,9 +12,9 @@ authors:
 - Jan Kautz
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2022-06-06T16:13:56-07:00
-featured: false
+date: '2022-06-10'
+lastmod: 2022-06-16T16:13:56-07:00
+featured: true
 draft: false
 
 # Featured image
@@ -23,7 +23,7 @@ draft: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -31,9 +31,25 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-06T23:13:55.947283Z'
+publishDate: '2022-06-12'
 publication_types:
 - '2'
 abstract: ''
-publication: '*arXiv preprint arXiv:2112.01524*'
+publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition*
+publication_short: In *CVPR 2022*
+
+# Custom links (uncomment lines below)
+links:
+ - name: CVPR2022 (Oral)
+   url: https://cvpr2022.thecvf.com
+
+url_pdf: 'https://arxiv.org/pdf/2112.01524.pdf'
+url_code: 'https://github.com/NVlabs/GLAMR'
+url_dataset: ''
+url_poster: ''
+url_project: 'https://nvlabs.github.io/GLAMR'
+url_slides: ''
+url_source: ''
+url_video: 'https://www.youtube.com/watch?v=wpObDXcYueo'
+
 ---

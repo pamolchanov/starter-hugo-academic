@@ -13,7 +13,7 @@ authors:
    - J. Kautz
    - P. Molchanov
 
-date: '2020-06-17T00:00:00Z'
+date: '2022-06-11'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -43,9 +43,9 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: CVPR2022 (Oral)
+   url: https://cvpr2022.thecvf.com
 
 url_pdf: 'https://arxiv.org/pdf/2112.07658.pdf'
 url_code: 'https://a-vit.github.io'

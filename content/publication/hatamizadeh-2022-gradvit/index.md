@@ -14,7 +14,7 @@ authors:
 - Pavlo Molchanov
 tags: [cvpr2022]
 categories: [cvpr2022]
-date: '2022-01-01'
+date: '2022-06-09'
 lastmod: 2022-06-06T16:13:57-07:00
 featured: true
 draft: false
@@ -26,6 +26,10 @@ image:
   caption: ''
   focal_point: '' 
   preview_only: true
+
+links:
+ - name: CVPR2022
+   url: https://cvpr2022.thecvf.com
 
 url_pdf: 'https://arxiv.org/pdf/2203.11894.pdf'
 url_code: 'https://gradvit.github.io'
