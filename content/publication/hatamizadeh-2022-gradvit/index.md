@@ -45,7 +45,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [model_inversion]
 publishDate: '2022-06-06T23:13:57.021575Z'
 publication_types:
 - '1'
