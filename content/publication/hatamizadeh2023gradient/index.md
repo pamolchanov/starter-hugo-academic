@@ -1,5 +1,6 @@
 ---
 title: 'Do gradient inversion attacks make federated learning unsafe?'
+subtitle: ''
 #https://ezgif.com/apng-maker 
 
 # Authors
@@ -11,7 +12,7 @@ authors:
    - P. Molchanov
    - A. Myronenko
    - L. Wenqi
-   - and others
+   - others
 
 
 date: '2023-01-01'
@@ -24,7 +25,7 @@ publishDate: '2023-01-10T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE Transactions on Medical Imaging*
