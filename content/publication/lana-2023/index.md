@@ -1,5 +1,5 @@
 ---
-title: 'LANA: latency aware network acceleration'
+title: 'LANA: Latency Aware Network Acceleration'
 #https://ezgif.com/apng-maker 
 
 # Authors
