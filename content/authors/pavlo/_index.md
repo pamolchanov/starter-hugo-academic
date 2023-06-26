@@ -73,7 +73,7 @@ highlight_name: true
 <!-- I obtained PhD from Tampere University of Technology, Finland in the area of signal processing in 2014 supervised by [Karen Eguiazarian](https://www.tuni.fi/en/karen-eguiazarian). I received my master degree from National Aerospace University, Kharkiv, Ukraine in Radio Systems focusing on high-order spectrum techniques for signal processing and mentored by [Alexander Totsky](https://ieeexplore.ieee.org/author/37391220000). -->
 <!-- # My dissertation was focused on designing automatic target recognition systems for radars and general radar signal processing. During PhD studies I was honored to receive EuRAD best paper award in 2011 and EuRAD young engineer award in 2013. -->
 
-<!-- We always look for promising interns and full time positions, feel free to ping me for details. I am also interested in connecting with people who share similar research interests.  --> -->
+<!-- We always look for promising interns and full time positions, feel free to ping me for details. I am also interested in connecting with people who share similar research interests.  -->
 
 I am a distinguished research scientist and team manager at [NVIDIA Research](https://www.nvidia.com/en-us/research/) since 2015. I work in the LPR team led by [Jan Kautz](https://jankautz.com), focusing on efficient deep learning and human-centric computer vision. Since 2023, I have been leading a research team dedicated to efficient deep learning, specifically in the areas of model compression, NAS-like acceleration, novel architectures, and adaptive/conditional inference.
 
