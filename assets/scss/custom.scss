@@ -7,3 +7,17 @@ nav#navbar-main li.nav-item {
 .home-section {
     padding: 30px 30px 0 0;
   }
+
+
+.featured-image-wrapper {
+  position: relative;
+  padding-left: 0; /* Override container padding. */
+  padding-right: 30px; /* Override container padding. */
+}
+
+.featured-image {
+  position: relative;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
