@@ -10,7 +10,7 @@ authors:
    - A. Vahdat
    - H. Yin
    - J. Kautz
-   - **P. Molchanov**
+   - "**P. Molchanov**"
 
 
 date: '2023-05-05'
