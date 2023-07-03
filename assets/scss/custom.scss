@@ -13,6 +13,8 @@ nav#navbar-main li.nav-item {
   position: relative;
   padding-left: 0; /* Override container padding. */
   padding-right: 30px; /* Override container padding. */
+  &:hover {
+    transform: scale(1.05);
 }
 
 .featured-image {
