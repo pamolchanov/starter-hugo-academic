@@ -21,4 +21,11 @@ nav#navbar-main li.nav-item {
   display: block;
   margin-right: 30px;
   // margin-right: 0 auto;
+  &:hover {
+    transform: scale(1.05);
+
+    //&:after {
+    //  opacity: 0;
+    //}
+  }
 }
