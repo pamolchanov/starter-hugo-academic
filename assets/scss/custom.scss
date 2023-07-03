@@ -33,3 +33,16 @@ nav#navbar-main li.nav-item {
     //}
   }
 } 
+
+
+.featured-hover {
+  
+
+  &:hover {
+    transform: scale(1.02);
+
+    //&:after {
+    //  opacity: 0;
+    //}
+  }
+} 
