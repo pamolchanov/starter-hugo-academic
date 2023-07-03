@@ -28,8 +28,8 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
-<div class="media stream-item view-compact featured-image-wrapper">
-    <div class="ml-3">
+<div class="media stream-item view-compact">
+    <div class="ml-3 featured-image-wrapper pading-right: 30px" >
         {{ $resource := partial "functions/get_featured_image.html" $item }}
         {{ with $resource }}
             <!-- {{ $image := .Resize "200x webp q99 Lanczos" }} -->
