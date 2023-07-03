@@ -15,6 +15,7 @@ nav#navbar-main li.nav-item {
   padding-right: 30px; /* Override container padding. */
   &:hover {
     transform: scale(1.05);
+  }
 }
 
 .featured-image {
@@ -23,6 +24,7 @@ nav#navbar-main li.nav-item {
   display: block;
   margin-right: 30px;
   // margin-right: 0 auto;
+
   &:hover {
     transform: scale(1.05);
 
@@ -30,4 +32,4 @@ nav#navbar-main li.nav-item {
     //  opacity: 0;
     //}
   }
-}
+} 
