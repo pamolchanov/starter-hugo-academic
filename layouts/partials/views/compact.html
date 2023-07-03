@@ -32,15 +32,17 @@
     <div class="ml-3" padding-right: 30px>
         {{ $resource := partial "functions/get_featured_image.html" $item }}
         {{ with $resource }}
-          <!-- {{ $image := .Resize "200x webp q99 Lanczos" }} -->
-          {{ $image := .Fit "200x200 webp q99 Lanczos" }}
-          <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
+            <!-- {{ $image := .Resize "200x webp q99 Lanczos" }} -->
+            {{ $image := .Fit "200x200 webp q99 Lanczos" }}
+            <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
             <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
                 alt="{{ $item.Title }}" loading="lazy">
-          </a>
+            </a>
         {{end}}
-      </div>
-
+        </div>
+  <div width: 40px>
+    <p> </p>
+  </div>
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
