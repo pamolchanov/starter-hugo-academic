@@ -81,6 +81,9 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 
+links:
+ - name: CVPR2024
+   url: https://cvpr.thecvf.com
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
