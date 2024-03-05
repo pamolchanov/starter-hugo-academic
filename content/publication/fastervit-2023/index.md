@@ -79,6 +79,9 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 
+links:
+ - name: ICLR2024
+   url: https://iclr.cc
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

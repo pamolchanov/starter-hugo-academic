@@ -1,5 +1,5 @@
 ---
-title: 'VILA: On Pre-training for Visual Language Models'
+title: 'AM-RADIO: Reduce All Domains Into One'
 #https://ezgif.com/apng-maker 
 
 # Authors
