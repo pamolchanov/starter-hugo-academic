@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = master
-	url = https://github.com/pamolchanov/pmolchanov.github.io.git
-	branch = main
