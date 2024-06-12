@@ -44,11 +44,9 @@ tags:
 featured: true
 
 abstract:  '![Teaser](dora_details.png) DoRA decomposes the pre-trained weight into two components, magnitude and direction, for fine-tuning, specifically employing LoRA for directional updates to efficiently minimize the number of trainable parameters. By employing DoRA, we enhance both the learning capacity and training stability of LoRA while avoiding any additional inference overhead. DoRA consistently outperforms LoRA on fine-tuning LLaMA, LLaVA, and VL-BART on various downstream tasks, such as commonsense reasoning, visual instruction tuning, and image/video-text understanding. 
-
 Resources:
 [Jeremy Howard - general introduction](https://twitter.com/jeremyphoward/status/1782575220051915175)
-[Sebastian Raschka - QDoRA](https://twitter.com/rasbt/status/1758502685995589698)
-'
+[Sebastian Raschka - QDoRA](https://twitter.com/rasbt/status/1758502685995589698)'
 
 #![HAT](hierarchial_attn.png)
 # Custom links (uncomment lines below)
@@ -56,10 +54,10 @@ Resources:
 links:
  - name: ICML2024 (Oral)
   url: https://icml.cc
- - name: Overview
-  url: https://twitter.com/jeremyphoward/status/1782575220051915175
- - name: QDoRA
-  url: https://twitter.com/rasbt/status/1758502685995589698
+#  - name: Overview
+#   url: https://twitter.com/jeremyphoward/status/1782575220051915175
+#  - name: QDoRA
+#   url: https://twitter.com/rasbt/status/1758502685995589698
 
 
 url_pdf: 'https://arxiv.org/abs/2402.09353'
