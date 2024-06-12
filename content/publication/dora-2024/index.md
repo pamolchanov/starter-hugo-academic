@@ -37,7 +37,7 @@ abstract:  ''
 summary: PEFT technique for efficient LLM/VLM adaptation. Significantly better than LoRA, supported in HF.
 
 tags: 
-  - Arxiv
+  - ICML
   - machine learning
 
 # Display this page in the Featured widget?
@@ -51,9 +51,9 @@ abstract:  '![Teaser](dora_details.png) DoRA decomposes the pre-trained weight i
 #![HAT](hierarchial_attn.png)
 # Custom links (uncomment lines below)
 # Custom links (uncomment lines below)
-links:
- - name: ICML2024 (Oral)
-  url: https://icml.cc
+# links:
+#  - name: ICML2024 (Oral)
+#   url: https://icml.cc
 #  - name: Overview
 #   url: https://twitter.com/jeremyphoward/status/1782575220051915175
 #  - name: QDoRA
