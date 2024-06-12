@@ -34,22 +34,20 @@ publication_short: In *Arxiv*
 abstract:  ''
 
 # Summary. An optional shortened abstract.
-summary: Vision transformer architecture with new hierarchical attention optimezed for throughput and high resolution images.
+summary: Vision transformer architecture with new hierarchical attention optimized for throughput and high-resolution images.
 
 tags: 
   - Arxiv
-  - machine learning
+  - Machine Learning
 
 # Display this page in the Featured widget?
 featured: true
 
-
-abstract:  '![Teaser](graph.png) We design a new family of hybrid CNN-ViT neural net- works, named FasterViT, with a focus on high image through- put for computer vision (CV) applications. FasterViT com- bines the benefits of fast local representation learning in CNNs and global modeling properties in ViT. Our newly introduced Hierarchical Attention (HAT) approach decom- poses global self-attention with quadratic complexity into a multi-level attention with reduced computational costs. We benefit from efficient window-based self-attention. Each window has access to dedicated carrier tokens that par- ticipate in local and global representation learning. At a high level, global self-attentions enable the efficient cross- window communication at lower costs. FasterViT achieves a SOTA Pareto-front in terms of accuracy vs. image through- put. We have extensively validated its effectiveness on various CV tasks including classification, object detection and segmentation. We also show that HAT can be used as a plug-and-play module for existing networks and en- hance them. We further demonstrate significantly faster and more accurate performance than competitive counter- parts for images with high resolution. Code is available at https://github.com/NVlabs/FasterViT.
+abstract:  '![Teaser](graph.png) We design a new family of hybrid CNN-ViT neural networks, named FasterViT, with a focus on high image throughput for computer vision (CV) applications. FasterViT combines the benefits of fast local representation learning in CNNs and global modeling properties in ViT. Our newly introduced Hierarchical Attention (HAT) approach decomposes global self-attention with quadratic complexity into a multi-level attention with reduced computational costs. We benefit from efficient window-based self-attention. Each window has access to dedicated carrier tokens that participate in local and global representation learning. At a high level, global self-attentions enable efficient cross-window communication at lower costs. FasterViT achieves a SOTA Pareto-front in terms of accuracy vs. image throughput. We have extensively validated its effectiveness on various CV tasks including classification, object detection, and segmentation. We also show that HAT can be used as a plug-and-play module for existing networks and enhance them. We further demonstrate significantly faster and more accurate performance than competitive counterparts for high-resolution images. Code is available at https://github.com/NVlabs/FasterViT.
 
 New hierarchical attention that facilitates local and global information exchange in a computationally efficient manner. The proposed hierarchical attention is shown in the following figure:
 ![HAT](hierarchial_attn.png)
 '
-
 
 # Custom links (uncomment lines below)
 # links:
