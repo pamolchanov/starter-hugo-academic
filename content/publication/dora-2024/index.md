@@ -47,11 +47,11 @@ links:
  - name: ICML2024(Oral)
    url: https://icml.cc
 
-abstract:  '![Teaser](dora_details.png) DoRA decomposes the pre-trained weight into two components, magnitude and direction, for fine-tuning, specifically employing LoRA for directional updates to efficiently minimize the number of trainable parameters. By employing DoRA, we enhance both the learning capacity and training stability of LoRA while avoiding any additional inference overhead. DoRA consistently outperforms LoRA on fine-tuning LLaMA, LLaVA, and VL-BART on various downstream tasks, such as commonsense reasoning, visual instruction tuning, and image/video-text understanding. 
+abstract:  '![Teaser](dora_details.png) DoRA decomposes the pre-trained weight into two components, magnitude and direction, for fine-tuning, specifically employing LoRA for directional updates to efficiently minimize the number of trainable parameters. By employing DoRA, we enhance both the learning capacity and training stability of LoRA while avoiding any additional inference overhead. DoRA consistently outperforms LoRA on fine-tuning LLaMA, LLaVA, and VL-BART on various downstream tasks, such as commonsense reasoning, visual instruction tuning, and image/video-text understanding. \
   
-Extra resources:  
+Extra resources:  \
   
-[Jeremy Howard - general introduction](https://twitter.com/jeremyphoward/status/1782575220051915175)  
+[Jeremy Howard - general introduction](https://twitter.com/jeremyphoward/status/1782575220051915175)  \
 
 Amazing project on comparing QDoRA and QLoRA [Sebastian Raschka - QDoRA](https://twitter.com/rasbt/status/1758502685995589698)  '
 
