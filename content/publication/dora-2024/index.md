@@ -58,7 +58,7 @@ links:
   url: https://icml.cc
  - name: Overview
   url: https://twitter.com/jeremyphoward/status/1782575220051915175
-  - name: QDoRA
+ - name: QDoRA
   url: https://twitter.com/rasbt/status/1758502685995589698
 
 
